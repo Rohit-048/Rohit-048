@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Mkjg2y8/122.gif">
 
 
-- 🔭 I’m currently working on ****Disaster Management App****
+- 🔭 Currently working on ****Disaster Management App****
 
-- 🌱 I’m currently learning **Jetpack compose,Retrofit**
+- 🌱 Currently learning **Jetpack compose,Retrofit**
 
 - 💬 Ask me about **Android development, Firebase integration**
 
-- 📫 How to reach me **rohitraj.giri2003@gmail.com**
+- 📫 Reach me at **rohitraj.giri2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
