@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/e126a18d81151f91956f6b6630f1a6f4a735bb6c9de2b7187c9e6016aa09077e/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966)
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Rohit Kumar Giri</h1>
 <h3 align="center">I am an Android developer with a knack for problem-solving and a passion for innovation.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Mkjg2y8/122.gif">
